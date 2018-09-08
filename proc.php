@@ -40,7 +40,7 @@ if(isset($_POST['user'])) {
 		        echo "
 					<html>
 					<head>
-						<meta http-equiv='REFRESH' content='0 ; url=https://accesofc.000webhostapp.com/'>
+						<meta http-equiv='REFRESH' content='0 ; url=https://example.com/'>
 					<script>
 						alert('Check your plex invitations, you have been invited successful.');
 					</script>
@@ -53,7 +53,7 @@ if(isset($_POST['user'])) {
 	  	echo "
 					<html>
 					<head>
-						<meta http-equiv='REFRESH' content='0 ; url=https://accesofc.000webhostapp.com/'>
+						<meta http-equiv='REFRESH' content='0 ; url=https://example.com/'>
 					<script>
 						alert('Only gmail accounts allowed.');
 					</script>
@@ -67,7 +67,7 @@ else{
 				echo "
 					<html>
 					<head>
-						<meta http-equiv='REFRESH' content='0 ; url=https://accesofc.000webhostapp.com/'>
+						<meta http-equiv='REFRESH' content='0 ; url=https://example.com/'>
 					<script>
 						alert('Fill the formulary.');
 					</script>
